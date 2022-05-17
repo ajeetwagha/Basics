@@ -1,6 +1,6 @@
 So, I have made this for the complete beginners those who are learning Node Js
-In order to run the server.
-You need to get to the directory and install dependencies.
+and in order to run the server.
+You are firstly needed to get to the directory and install dependencies amd migate node 
 
 npm install migrate
 npm install nodemon
